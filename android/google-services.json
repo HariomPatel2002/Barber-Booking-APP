@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027714587688",
+    "project_id": "baarbarapp-d7687",
+    "storage_bucket": "baarbarapp-d7687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027714587688:android:a36ff47cb7006f3714691d",
+        "android_client_info": {
+          "package_name": "com.example.barbarbookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAVvWCTUctvZJ44sfU0ZC2P2JKY9U5jTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
