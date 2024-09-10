@@ -9,6 +9,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
 import 'Admin/admin_login.dart';
+import 'Demo.dart';
 
 void main() {
   // WidgetsFlutterBinding.ensureInitialized();
@@ -30,7 +31,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
        //home:ForgotPassword(),
-      home:SignUp(),
+      home:ShowData(),
     );
   }
 }
